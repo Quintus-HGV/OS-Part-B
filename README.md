@@ -23,3 +23,9 @@ Step 2: Install <b>pthread</b> package using command "sudo apt-get install libpt
 Step 3: Save the "main.c" file in a directory and open terminal there<br>
 Step 4: Compile the main program and link the vlc and pthread libraries. Use command "gcc -o main main.c -lvlc -lpthread"<br>
 Step 5: Run the executable by "./main"<br>
+
+
+<h1>Project Contributors<h1>
+<h3>Amrutiya Urvish (amrutiyaurvish.is22@rvce.edu.in)</h3>
+<h3>Daksh Goyal (dakshgoyal.is22@rvce.edu.in)</h3>
+<h3>Harsh Gupta (harshgupta.is22@rvce.edu.in)</h3>
